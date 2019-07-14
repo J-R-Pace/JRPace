@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Another Link"
+    url: /another/
+  - title: "More Stuff"
+    url: /more/
+  - title: "Even More Links"
+    url: /even-more/
